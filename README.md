@@ -1,12 +1,12 @@
 ### Hi there 👋
-
+<a href="https://wakatime.com/@d58bd1e4-5a2a-4b4d-ac39-34b8e5374c80">
+    <img width = "525" src="https://github-readme-stats.vercel.app/api/wakatime?username=d58bd1e4-5a2a-4b4d-ac39-34b8e5374c80&theme=vue&langs_count=10"/>
+  </a>
 <!--
 **PaoloVeliz/PaoloVeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<a href="https://wakatime.com/@d58bd1e4-5a2a-4b4d-ac39-34b8e5374c80">
-    <img width = "525" src="https://github-readme-stats.vercel.app/api/wakatime?username=d58bd1e4-5a2a-4b4d-ac39-34b8e5374c80&theme=vue&langs_count=10"/>
-  </a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
