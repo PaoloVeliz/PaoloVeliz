@@ -1,6 +1,6 @@
 ### Hi there 👋
-<a href="https://wakatime.com/@d58bd1e4-5a2a-4b4d-ac39-34b8e5374c80">
-    <img width = "525" src="https://github-readme-stats.vercel.app/api/wakatime?username=d58bd1e4-5a2a-4b4d-ac39-34b8e5374c80&theme=vue&langs_count=10"/>
+<a href="https://wakatime.com/@PaoloVeliz">
+    <img width = "525" src="https://github-readme-stats.vercel.app/api/wakatime?username=PaoloVeliz&theme=vue&langs_count=10"/>
   </a>
 <!--
 **PaoloVeliz/PaoloVeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
