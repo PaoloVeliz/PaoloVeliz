@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://wakatime.com/@PaoloVeliz">
-    <img width = "525" src="https://github-readme-stats.vercel.app/api/wakatime?username=PaoloVeliz&theme=vue&langs_count=10"/>
+    <img width = "525" src="https://github-readme-stats.vercel.app/api/wakatime?username=PaoloVeliz&theme=vue&langs_count=9"/>
   </a>
 <!--
 **PaoloVeliz/PaoloVeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
